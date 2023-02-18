@@ -41,8 +41,8 @@ Building a Megatron like ChatBot requires a huge amount of data and various stat
 I have tried many State of the art language models from BERT-large to DialoGPT to RoBERTa but got an awesome results over Distilled BERT Models with ELMO embeddings.The model then trained over the 20k queries after preprocessing then adding tokens like [SEP], [START], [END] and [EOS].
   
 The Architecture of MegatronBot: -
-![Alt Text](/MegaTron/NewGIF.gif)
+![Alt Text](/architecture.png)
 
 Below are some results: 
 
-![Alt Text](/MegaTron/NewGIF.gif)
+![Alt Text](NewGIF.gif)
