@@ -27,8 +27,8 @@ DistilBERT performance comparison :
 ![Alt text](https://4.bp.blogspot.com/-v0xrp7eJRfM/Xr77DD85ObI/AAAAAAAADDY/KjIlWlFZExQA84VRDrMEMrB534euKAzlgCLcBGAsYHQ/s1600/NLP%2Bmodels.png "BERT variants performance comparision")
   
 The Architecture of MegatronBot: -
-![Alt Text](/architecture.png)
+![Alt Text](architecture.png)
 
 Below are some results: 
 
-![Alt Text](/NewGIF.gif)
+![Alt Text](NewGIF.gif)
