@@ -26,9 +26,6 @@ DistilBERT performance comparison :
 
 ![Alt text](https://4.bp.blogspot.com/-v0xrp7eJRfM/Xr77DD85ObI/AAAAAAAADDY/KjIlWlFZExQA84VRDrMEMrB534euKAzlgCLcBGAsYHQ/s1600/NLP%2Bmodels.png "BERT variants performance comparision")
 
-![Alt Text](NewGIF.gif)
-
-
 # MegatronBot - Let's Chat
 
 MegatronBot is a fully fleged chatbot with easy to update, integrate with website, easy to deploy in any cloud services like AWS, GCP and azure with a capibility to work in production enviorment.Megatron accepts various formats of inputs you can give a text input, you can also give a Speech as a input.
@@ -44,12 +41,8 @@ Building a Megatron like ChatBot requires a huge amount of data and various stat
 I have tried many State of the art language models from BERT-large to DialoGPT to RoBERTa but got an awesome results over Distilled BERT Models with ELMO embeddings.The model then trained over the 20k queries after preprocessing then adding tokens like [SEP], [START], [END] and [EOS].
   
 The Architecture of MegatronBot: -
-
-<p align="center">
-  <img width="1010" height="700" src="utils/Megatron-ChatBot@2x (1).png">
-</p>
-
+![Alt Text](/MegaTron/NewGIF.gif)
 
 Below are some results: 
 
-<p align = "center"><img align = "center" src = "utils/NewGIF.gif" /></p>
+![Alt Text](/MegaTron/NewGIF.gif)
