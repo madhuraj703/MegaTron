@@ -30,5 +30,6 @@ The Architecture of MegatronBot: -
 ![Alt Text](architecture.png)
 
 Below are some results: 
+![architecture](https://user-images.githubusercontent.com/108948595/219875511-28f09d6c-5546-4407-883b-78967947c597.png)
 
-![Alt Text](NewGIF.gif)
+![NewGIF](https://user-images.githubusercontent.com/108948595/219875683-76230189-7da5-4087-9d29-40e459e38a85.gif)
