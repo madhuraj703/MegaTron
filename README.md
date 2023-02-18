@@ -45,4 +45,4 @@ The Architecture of MegatronBot: -
 
 Below are some results: 
 
-![Alt Text](NewGIF.gif)
+![Alt Text](/NewGIF.gif)
