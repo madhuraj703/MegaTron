@@ -10,6 +10,12 @@ In essence, an intent classifier automatically analyzes texts and categorizes th
 
 Ultimately, every customer interaction has a purpose, an aim, or intention. Whether they want to make a purchase, request more information, or unsubscribe, you should respond quickly to improve customer retention rates, loyalty and satisfaction.
 
+### The Architecture of MegatronBot: -
+![architecture](https://user-images.githubusercontent.com/108948595/219875511-28f09d6c-5546-4407-883b-78967947c597.png)
+
+### Project Demo: -
+![NewGIF](https://user-images.githubusercontent.com/108948595/219875683-76230189-7da5-4087-9d29-40e459e38a85.gif)
+
 ##  ELMo Embeddings 
 
 Embeddings from Language Models, or ELMo, is a type of deep contextualized word representation that models both (1) complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). Word vectors are learned functions of the internal states of a deep bidirectional language model (biLM), which is pre-trained on a large text corpus.
@@ -25,11 +31,4 @@ DistilBERT is a small, fast, cheap and light Transformer model based on the BERT
 DistilBERT performance comparison :
 
 ![Alt text](https://4.bp.blogspot.com/-v0xrp7eJRfM/Xr77DD85ObI/AAAAAAAADDY/KjIlWlFZExQA84VRDrMEMrB534euKAzlgCLcBGAsYHQ/s1600/NLP%2Bmodels.png "BERT variants performance comparision")
-  
-The Architecture of MegatronBot: -
-![Alt Text](architecture.png)
 
-Below are some results: 
-![architecture](https://user-images.githubusercontent.com/108948595/219875511-28f09d6c-5546-4407-883b-78967947c597.png)
-
-![NewGIF](https://user-images.githubusercontent.com/108948595/219875683-76230189-7da5-4087-9d29-40e459e38a85.gif)
